@@ -1,0 +1,11 @@
+{
+  "name": "image-carousel",
+  "template": {
+    "@type": "Thing",
+    "@list": {
+        "@type": "Thing",
+        "image": "https://s3.amazonaws.com/ooomf-com-files/lUUnN7VGSoWZ3noefeH7_Baker%20Beach-12.jpg",
+        "description": "Lorem ipsum sit dolor amet.."      
+      }
+    }
+  }
